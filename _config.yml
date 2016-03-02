@@ -6,13 +6,13 @@ color:
     - '#609068'
     - '#109030'
     - '#000000'
-  brandStrength: 0.7487583576059939
-  lightness: 0.35017879894595094
-  rhythmicContrast: 0.647863375867448
-  saturation: 0.29512286301136725
+  brandStrength: 0.671453
+  lightness: 0.487331
+  rhythmicContrast: 0.471284
+  saturation: 0.488176
 cta: {}
 layout_spectrum: 0.22866745677279454
 name: Muscle Authority
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.4159646900449141
+typography_spectrum: 0.500845
