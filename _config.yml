@@ -1,20 +1,4 @@
-name: Muscle Authority
-favicon: null
-layout_spectrum: 0.22866745677279454
-typography_spectrum: 0.500845
-title: Muscle Authority Personal Training
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#130013'
@@ -24,9 +8,12 @@ color:
     - '#44871b'
   brandStrength: 0.5
   lightness: 1
-  saturation: 1
   rhythmicContrast: 1
+  saturation: 1
+cta: {}
+layout_spectrum: 0.382601
+name: Muscle Authority
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.500845
