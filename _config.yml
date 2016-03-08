@@ -1,4 +1,19 @@
-analytics: {}
+name: Muscle Authority
+favicon: null
+layout_spectrum: 0.15537
+typography_spectrum: 0.345439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -6,14 +21,11 @@ color:
     - '#1a1b1a'
     - '#50524f'
     - '#363735'
-  brandStrength: 0
-  lightness: 0.058277
-  rhythmicContrast: 0.522804
+  brandStrength: 0.1875
+  lightness: 0.5
   saturation: 0.023649
-cta: {}
-layout_spectrum: 0
-name: Muscle Authority
-opengraph: {}
+  rhythmicContrast: 1
 purpose:
-  - {}
-typography_spectrum: 0.345439
+  - name: null
+    item: null
+    url: null
