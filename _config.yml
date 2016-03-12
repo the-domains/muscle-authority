@@ -1,20 +1,4 @@
-name: Muscle Authority
-favicon: null
-layout_spectrum: 0.15537
-typography_spectrum: 0.345439
-title: 'Muscle Authority Personal Training ,  Berne Indiana '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -22,11 +6,14 @@ color:
     - '#1a1b1a'
     - '#50524f'
     - '#363735'
-  brandStrength: 0.1875
-  lightness: 0.5
+  brandStrength: 1
+  lightness: 0.73902
+  rhythmicContrast: 0.521115
   saturation: 0.023649
-  rhythmicContrast: 1
+cta: {}
+layout_spectrum: 0.15537
+name: Muscle Authority
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.345439
