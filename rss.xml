@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Muscle Authority Personal Training ,  Berne and Decatur Indiana]]></title>
         <description><![CDATA[Muscle Authority Personal Training ,  Berne and Decatur Indiana]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.muscleauthority.training/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 18:48:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 18:49:12 GMT</lastBuildDate>
+        <atom:link href="http://www.muscleauthority.training/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glute Training: A Woman's Secret to Looking Great]]></title>
+            <description><![CDATA[<article><h1>Glute Training: A Woman's Secret to Looking Great</h1><p>There were even fad training gimmicks looking like two ski poles. Those poles were fixed on the ground and would serve to help women do more lunges to develop those firm "buns and thighs" as the saying went in the '90s. Glute training always had a special appeal to women....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8b1ad9d2712753e5b47605032b2c1cc4f716696.jpg"></article>]]></description>
+            <link>http://www.strengthsensei.com/glute-training-a-womans-secret-to-looking-great/</link>
+            <guid isPermaLink="false">54bca8c9-08c3-4bd0-8470-38ad2e1c1780</guid>
+            <pubDate>Thu, 17 Mar 2016 18:49:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More magnesium, more free testosterone]]></title>
             <description><![CDATA[<article><h1>More magnesium, more free testosterone</h1><p>Good information!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed94e5a413158bd744c4fe139a72fd3891ac2650.gif"></article>]]></description>
