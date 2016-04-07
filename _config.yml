@@ -1,20 +1,5 @@
-name: Muscle Authority
-favicon: null
-layout_spectrum: 0.75881
-typography_spectrum: 1
-title: 'Muscle Authority Personal Training . "Make Your Body Great Again"  Berne and Decatur Indiana'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-75059680-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -22,11 +7,14 @@ color:
     - '#006400'
     - '#31fc07'
     - '#1aac07'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.6875
+  rhythmicContrast: 0.5
   saturation: 1
-  rhythmicContrast: 0.25
+cta: {}
+layout_spectrum: 0.75881
+name: Muscle Authority
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 1
