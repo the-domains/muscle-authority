@@ -8,7 +8,7 @@ color:
     - '#31fc07'
     - '#1aac07'
   brandStrength: 0
-  lightness: 0.6875
+  lightness: 0.548142
   rhythmicContrast: 0.5
   saturation: 1
 cta: {}
@@ -17,4 +17,4 @@ name: Muscle Authority
 opengraph: {}
 purpose:
   - {}
-typography_spectrum: 1
+typography_spectrum: 0.074324
