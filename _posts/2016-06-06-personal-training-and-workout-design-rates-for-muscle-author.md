@@ -1,14 +1,14 @@
 ---
 authors: []
-dateModified: '2016-06-06T17:33:05.583Z'
+dateModified: '2016-06-07T23:17:50.773Z'
+datePublished: '2016-06-07T23:18:07.439Z'
 description: PERSONAL TRAINING AND WORKOUT DESIGN RATES for Muscle Authoriy.
 hasPage: true
 inFeed: true
 inNav: false
 keywords: []
-title: ''
+title: Personal Training and Consultation rates
 author: []
-datePublished: '2016-06-06T17:33:50.510Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-06-personal-training-and-workout-design-rates-for-muscle-author.md
