@@ -2,7 +2,7 @@ name: Muscle Authority
 favicon: null
 layout_spectrum: 0.75881
 typography_spectrum: 0.30557
-title: 'Muscle Authority "Make Your Body Great Again!"'
+title: Muscle Authority "Make Your Body Great Again!"
 cta:
   domain: null
   bucket: null
@@ -23,8 +23,8 @@ color:
     - '#31fc07'
     - '#1aac07'
   brandStrength: 0
-  lightness: 0.548142
-  saturation: 1
+  lightness: 0.3125
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose:
   - name: null
