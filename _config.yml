@@ -1,20 +1,4 @@
-name: Muscle Authority
-favicon: null
-layout_spectrum: 0.75881
 typography_spectrum: 0.30557
-title: Muscle Authority "Make Your Body Great Again!"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75059680-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,7 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.5625
   rhythmicContrast: 0.75
-purpose:
-  - name: null
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75881
+analytics:
+  google: UA-75059680-1
+  facebook: null
+  twitter: null
+name: Muscle Authority
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Muscle Authority '
+purpose: []
